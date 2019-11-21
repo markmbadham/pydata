@@ -1,3 +1,6 @@
 [submodule "numpy-100"]
 	path = numpy-100
 	url = https://github.com/rougier/numpy-100
+[submodule "elegant-scipy"]
+	path = elegant-scipy
+	url = https://github.com/elegant-scipy/elegant-scipy.git
